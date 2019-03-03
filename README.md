@@ -3,7 +3,7 @@
 * [Lesson 2 (28.02.2019)](https://slides.com/alexpodobed/core-js-functions#/)
 
 ### Home work:
-
+* Lesson 2 ``` git checkout homework_2```
 
 ### Install
 ```
